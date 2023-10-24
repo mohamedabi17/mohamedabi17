@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed ABi</h1>
-<h3 align="center">Computer Science Student and Full Stack Developer , A passionate and creative problem solver who likes to get things done in the best possible way. I can easily learn new technologies and love doing so. Looking for opportunities within my chosen field to work with people who are passionate about what they do and collaborate to make products that would make an impact.</h3>
+<h3 align="center"> a passionate and dedicated student who has successfully completed my undergraduate studies, majoring in Software Engineering. I've recently embarked on a new academic journey in the field of Data Science, and I'm currently in my first year of specialization
+In addition to my academic pursuits, I actively engage as a freelance web developer,My expertise lies in web development, where I've honed my skills with a strong foundation in various programming languages, frameworks, and technologies I've had the privilege of working with clients from the USA and have used a range of tools, including Oracle APEX, Node.js, Express.js, and MongoD Django plus wordpress. currentily am working on Next Js and TypeScript to create this portfolio plus wordpress..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedabi17&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedabi17" /> </p>
 
