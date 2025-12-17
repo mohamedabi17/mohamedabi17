@@ -15,16 +15,16 @@
 
 ### 🚀 About Me
 
-I am currently a **Master 2 student in DataScale** (Data Management and Large-Scale Knowledge Extraction) at the **Graduate School of Paris-Saclay**[cite: 7]. With a strong background in Software Engineering, I have transitioned into **Data & AI Engineering  and Cloud Architecture**.
+I am currently a **Master 2 student in DataScale** (Data Management and Large-Scale Knowledge Extraction) at the **Graduate School of Paris-Saclay**. With a strong background in Software Engineering, I have transitioned into **Data & AI Engineering  and Cloud Architecture**.
 
-[cite_start]I specialize in building robust ETL pipelines, data lakes, and scalable architectures using the **AWS ecosystem, Apache Spark, and Airflow**[cite: 7, 8]. [cite_start]I combine technical rigor with a product mindset, having co-founded a web solution agency and optimized database performance for international clients[cite: 7].
+[cite_start]I specialize in building robust ETL pipelines, data lakes, and scalable architectures using the **AWS ecosystem, Apache Spark, and Airflow**.I combine technical rigor with a product mindset, having co-founded a web solution agency and optimized database performance for international clients.
 
-- 🔭 I’m currently working on **Enterprise Data Lake Architectures on AWS (S3, Glue, Athena, Lake Formation)**[cite: 7].
-- 🌱 I’m currently preparing for the **AWS Certified Data Engineer Associate (DEA-C01)**[cite: 11].
-- 💼 I’m looking for a **6-month Data Engineering Internship** starting **March 2026**[cite: 6].
+- 🔭 I’m currently working on **Enterprise Data Lake Architectures on AWS (S3, Glue, Athena, Lake Formation)**.
+- 🌱 I’m currently preparing for the **AWS Certified Data Engineer Associate (DEA-C01)**.
+- 💼 I’m looking for a **6-month Data Engineering Internship** starting **March 2026**.
 - 👯 I’m looking to collaborate on **Big Data Processing & Cloud Infrastructure projects**.
 - 📫 How to reach me: **mohamedabil485@gmail.com**.
-- ⚡ Fun fact: I create tech content on Instagram (59K+ followers) to popularize Data & Dev concepts[cite: 12].
+- ⚡ Fun fact: I create tech content on Instagram (59K+ followers) to popularize Data & Dev concepts.
 
 ---
 
@@ -39,7 +39,7 @@ I am currently a **Master 2 student in DataScale** (Data Management and Large-Sc
 
 **Cloud (AWS):**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-[cite_start]*S3, Glue, Athena, Redshift, Lambda, Kinesis* [cite: 8]
+[cite_start]*S3, Glue, Athena, Redshift, Lambda, Kinesis*
 
 **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,9 +57,9 @@ I am currently a **Master 2 student in DataScale** (Data Management and Large-Sc
 
 ### 💼 Recent Experience Highlights
 
-* [cite_start]**Data Processing Intern @ CERIST:** Developed video data processing pipelines and automated ETL workflows for ML datasets[cite: 7].
-* [cite_start]**Co-Founder & Lead Engineer @ Web Solutions:** Architected microservices for an auction platform and optimized DB schemas, reducing query time by 70%[cite: 7].
-* [cite_start]**ERP Developer Intern @ APCS:** Automated ETL workflows for warehouse management, reducing manual data entry by 60%[cite: 7].
+* [cite_start]**Data Processing Intern @ CERIST:** Developed video data processing pipelines and automated ETL workflows for ML datasets.
+* [cite_start]**Co-Founder & Lead Engineer @ Web Solutions:** Architected microservices for an auction platform and optimized DB schemas, reducing query time by 70%.
+* [cite_start]**ERP Developer Intern @ APCS:** Automated ETL workflows for warehouse management, reducing manual data entry by 60%.
 
 ---
 
