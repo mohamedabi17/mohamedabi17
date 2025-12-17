@@ -17,7 +17,7 @@
 
 I am currently a **Master 2 student in DataScale** (Data Management and Large-Scale Knowledge Extraction) at the **Graduate School of Paris-Saclay**. With a strong background in Software Engineering, I have transitioned into **Data & AI Engineering  and Cloud Architecture**.
 
-[cite_start]I specialize in building robust ETL pipelines, data lakes, and scalable architectures using the **AWS ecosystem, Apache Spark, and Airflow**.I combine technical rigor with a product mindset, having co-founded a web solution agency and optimized database performance for international clients.
+I specialize in building robust ETL pipelines, data lakes, and scalable architectures using the **AWS ecosystem, Apache Spark, and Airflow**.I combine technical rigor with a product mindset, having co-founded a web solution agency and optimized database performance for international clients.
 
 - 🔭 I’m currently working on **Enterprise Data Lake Architectures on AWS (S3, Glue, Athena, Lake Formation)**.
 - 🌱 I’m currently preparing for the **AWS Certified Data Engineer Associate (DEA-C01)**.
