@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed ABi</h1>
-<h3 align="center"> a passionate and dedicated student who has successfully completed my undergraduate studies, majoring in Software Engineering. I've recently embarked on a new academic journey in the field of Data Science, and I'm currently in my first year of specialization
-In addition to my academic pursuits, I actively engage as a freelance web developer,My expertise lies in web development, where I've honed my skills with a strong foundation in various programming languages, frameworks, and technologies I've had the privilege of working with clients from the USA and have used a range of tools, including Oracle APEX, Node.js, Express.js, and MongoD Django plus wordpress. currentily am working on Next Js and TypeScript to create this portfolio plus wordpress..</h3>
+<h3 align="center">Master 2 DataScale Student | Data Engineering & Cloud Architecture Enthusiast</h3>
+
+<p align="center">
+  <em>Actively seeking a 6-month Data Engineering Internship starting March 2026.</em>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedabi17&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedabi17" /> </p>
 
@@ -8,27 +11,63 @@ In addition to my academic pursuits, I actively engage as a freelance web develo
 
 <p align="left"> <a href="https://twitter.com/mohamed52568273" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed52568273?logo=twitter&style=for-the-badge" alt="mohamed52568273" /></a> </p>
 
-- 🔭 I’m currently working on **Sonatrach pipeline Inspections System**
+---
 
-- 🌱 I’m currently learning **oracle database architecture**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Web Developement**
+[cite_start]I am currently a **Master 2 student in DataScale** (Data Management and Large-Scale Knowledge Extraction) at the **Graduate School of Paris-Saclay**[cite: 7]. With a strong background in Software Engineering, I have transitioned into **Data Engineering and Cloud Architecture**.
 
-- 🤝 I’m looking for help with **The Developement of IA platform**
+[cite_start]I specialize in building robust ETL pipelines, data lakes, and scalable architectures using the **AWS ecosystem, Apache Spark, and Airflow**[cite: 7, 8]. [cite_start]I combine technical rigor with a product mindset, having co-founded a web solution agency and optimized database performance for international clients[cite: 7].
 
-- 📫 How to reach me **mohamedabi1485@gmail.com**
+- [cite_start]🔭 I’m currently working on **Enterprise Data Lake Architectures on AWS (S3, Glue, Athena, Lake Formation)**[cite: 7].
+- [cite_start]🌱 I’m currently preparing for the **AWS Certified Data Engineer Associate (DEA-C01)**[cite: 11].
+- [cite_start]💼 I’m looking for a **6-month Data Engineering Internship** starting **March 2026**[cite: 6].
+- 👯 I’m looking to collaborate on **Big Data Processing & Cloud Infrastructure projects**.
+- [cite_start]📫 How to reach me: **mohamedabil485@gmail.com**[cite: 2].
+- [cite_start]⚡ Fun fact: I create tech content on Instagram (59K+ followers) to popularize Data & Dev concepts[cite: 12].
 
-- ⚡ Fun fact **I believe I can make things smooth and quick..**
+---
+
+### 🛠️ Languages and Tools
+
+**Data Engineering & Big Data:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
+
+**Cloud (AWS):**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[cite_start]*S3, Glue, Athena, Redshift, Lambda, Kinesis* [cite: 8]
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Web:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+### 💼 Recent Experience Highlights
+
+* [cite_start]**Data Processing Intern @ CERIST:** Developed video data processing pipelines and automated ETL workflows for ML datasets[cite: 7].
+* [cite_start]**Co-Founder & Lead Engineer @ Web Solutions:** Architected microservices for an auction platform and optimized DB schemas, reducing query time by 70%[cite: 7].
+* [cite_start]**ERP Developer Intern @ APCS:** Automated ETL workflows for warehouse management, reducing manual data entry by 60%[cite: 7].
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohamed52568273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed52568273" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-abi-976299237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abi-976299237" height="30" width="40" /></a>
-<a href="https://discord.gg/abiMed#5073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abiMed#5073" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamedabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedabi" height="30" width="40" /></a>
+<a href="https://mohamedabi.tech" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=About.me&logoColor=white" height="30" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedabi17&show_icons=true&locale=en&layout=compact" alt="mohamedabi17" /></p>
 
