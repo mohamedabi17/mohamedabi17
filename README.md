@@ -15,16 +15,16 @@
 
 ### 🚀 About Me
 
-[cite_start]I am currently a **Master 2 student in DataScale** (Data Management and Large-Scale Knowledge Extraction) at the **Graduate School of Paris-Saclay**[cite: 7]. With a strong background in Software Engineering, I have transitioned into **Data Engineering and Cloud Architecture**.
+I am currently a **Master 2 student in DataScale** (Data Management and Large-Scale Knowledge Extraction) at the **Graduate School of Paris-Saclay**[cite: 7]. With a strong background in Software Engineering, I have transitioned into **Data & AI Engineering  and Cloud Architecture**.
 
 [cite_start]I specialize in building robust ETL pipelines, data lakes, and scalable architectures using the **AWS ecosystem, Apache Spark, and Airflow**[cite: 7, 8]. [cite_start]I combine technical rigor with a product mindset, having co-founded a web solution agency and optimized database performance for international clients[cite: 7].
 
-- [cite_start]🔭 I’m currently working on **Enterprise Data Lake Architectures on AWS (S3, Glue, Athena, Lake Formation)**[cite: 7].
-- [cite_start]🌱 I’m currently preparing for the **AWS Certified Data Engineer Associate (DEA-C01)**[cite: 11].
-- [cite_start]💼 I’m looking for a **6-month Data Engineering Internship** starting **March 2026**[cite: 6].
+- 🔭 I’m currently working on **Enterprise Data Lake Architectures on AWS (S3, Glue, Athena, Lake Formation)**[cite: 7].
+- 🌱 I’m currently preparing for the **AWS Certified Data Engineer Associate (DEA-C01)**[cite: 11].
+- 💼 I’m looking for a **6-month Data Engineering Internship** starting **March 2026**[cite: 6].
 - 👯 I’m looking to collaborate on **Big Data Processing & Cloud Infrastructure projects**.
-- [cite_start]📫 How to reach me: **mohamedabil485@gmail.com**[cite: 2].
-- [cite_start]⚡ Fun fact: I create tech content on Instagram (59K+ followers) to popularize Data & Dev concepts[cite: 12].
+- 📫 How to reach me: **mohamedabil485@gmail.com**.
+- ⚡ Fun fact: I create tech content on Instagram (59K+ followers) to popularize Data & Dev concepts[cite: 12].
 
 ---
 
