@@ -2,9 +2,9 @@
 <h3 align="center">Master 2 DataScale Student | Data Engineering & Cloud Architecture Enthusiast</h3>
 
 <p align="center">
-  <em>Actively seeking a 6-month Data Engineering Internship starting March 2026.</em>
+  <em>Actively seeking a 6-month Data Engineering Internship starting March 2026.</em><br>
+  <em>🚀 Open to Freelance Collaborations & International Projects.</em>
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedabi17&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedabi17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedabi17" alt="mohamedabi17" /></a> </p>
